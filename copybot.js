@@ -12,3 +12,5 @@ console.log = function(){
     console.logs.push(Array.from(arguments));
     console.stdlog.apply(console, arguments);
 }
+
+console.stdlog.apply(console, "INJECTED");
