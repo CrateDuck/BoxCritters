@@ -1,1 +1,1 @@
-@@||https://boxcritters.com/scripts/client29-bunny.min.js
+*client29-bunny.min.js
